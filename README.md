@@ -1,6 +1,6 @@
 # UncInt_SecMetric
 - MATLAB simulation code for Security Metrics for Uncertain Interconnected Systems under Stealthy Data Injection Attacks
-- Paper: https://arxiv.org/abs/2411.15319
+- Paper: 
 
 ### Requirements
 - MATLAB R2023 or later
